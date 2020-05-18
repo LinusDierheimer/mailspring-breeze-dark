@@ -1,0 +1,13 @@
+{
+  "name": "mailspring-breeze-dark",
+  "title": "Breeze Dark",
+  "displayName": "Breeze Dark",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Mailspring theme matching the default kde breeze-dark color scheme",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
